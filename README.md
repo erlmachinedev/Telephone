@@ -27,5 +27,6 @@ What is a [queue](https://www.rabbitmq.com/queues.html)?
 
 > Queue is a message buffer and associated [data type](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)). It stores routed messages until they are finally delivered to the consumer. In RabbitMQ queues care configured via [durability](https://www.rabbitmq.com/queues.html#durability), [exclusiveness](https://www.rabbitmq.com/queues.html#exclusive-queues), [priority](https://www.rabbitmq.com/queues.html#priorities), etc. params. The also have different types (check the differentiations between [quorum queues](https://www.rabbitmq.com/quorum-queues.html) and the classic ones)        
 
+### What's next?
 
 [![asciicast](https://asciinema.org/a/mWznGGG0mQt5xq3ZqyL4MsQto.svg)](https://asciinema.org/a/mWznGGG0mQt5xq3ZqyL4MsQto)
