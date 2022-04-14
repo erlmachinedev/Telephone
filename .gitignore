@@ -1,17 +1,12 @@
-.eunit
-*.o
-*.beam
-*.plt
-erl_crash.dump
-.concrete/DEV_MODE
+.DS_Store
+.erlang.mk/
+Mnesia.*
+telephone.d
+deps/
+ebin/
+log/
+logs/
 
-# rebar 2.x
-.rebar
-rel/example_project
-ebin/*.beam
-deps
-
-# rebar 3
-.rebar3
-_build/
-_checkouts/
+_rel/
+config/
+relx.config
